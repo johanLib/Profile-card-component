@@ -7,7 +7,7 @@
   <h2 align="center">Profile-card-component solution</h2>
   <p align="center">
   <!-- a modifier -->
-    <a href="https://www.frontendmentor.io/solutions/profile-card-component"><strong>Frontend Mentor Challenge</strong></a>
+    <a href="https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ"><strong>Frontend Mentor Challenge</strong></a>
     <br />
     <br />
     <a href="https://johanlib.github.io/Profile-card-component/">View Demo</a>
