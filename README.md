@@ -39,12 +39,12 @@
 
 </div>
 
-This is a solution to the [Profile card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [Profile card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 <h2 align="center">Links</h2>
 
 - Solution URL: [Profile card component | Frontend Mentor](https://www.frontendmentor.io/solutions/profile-card-component/)
-- Live Site URL: [https://stats-preview-card-component-hdez.vercel.app/](https://johanlib.github.io/stats-preview-card-component/)
+- Live Site URL: [https://stats-preview-card-component-hdez.vercel.app/](https://johanlib.github.io/profile-card-component/s)
 
 <br>
 
