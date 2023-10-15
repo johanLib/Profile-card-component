@@ -10,7 +10,7 @@
     <a href="https://www.frontendmentor.io/solutions/profile-card-component"><strong>Frontend Mentor Challenge</strong></a>
     <br />
     <br />
-    <a href="https://johanlib.github.io/profile-card-component/">View Demo</a>
+    <a href="https://johanlib.github.io/Profile-card-component/">View Demo</a>
     ·
     <a href="https://github.com/johanLib/profile-card-component/issues" target="_blank">Report Bug</a>
     ·
@@ -43,8 +43,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 <h2 align="center">Links</h2>
 
-- Solution URL: [Profile card component | Frontend Mentor](https://www.frontendmentor.io/solutions/profile-card-component/)
-- Live Site URL: [https://stats-preview-card-component-hdez.vercel.app/](https://johanlib.github.io/profile-card-component/s)
+- Solution URL: [Profile card component | Frontend Mentor](https://www.frontendmentor.io/solutions/profile-card-component-SuEaFXGVPv)
+- Live Site URL: [https://johanlib.github.io/Profile-card-component/](https://johanlib.github.io/Profile-card-component/)
 
 <br>
 
